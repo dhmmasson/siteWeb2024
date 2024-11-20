@@ -1,9 +1,10 @@
 body {
-  background-color: bisque;
+  background-color: rgb(190, 255, 204);
+  font-family: "Arial", sans-serif;
 }
 
 h1 {
-  color: rgb(128, 83, 0);
+  color: darkgreen;
 }
 
 .columns {
