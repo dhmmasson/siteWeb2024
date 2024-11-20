@@ -5,3 +5,9 @@ body {
 h1 {
   color: rgb(128, 83, 0);
 }
+
+.columns {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
